@@ -1,5 +1,5 @@
-# Pahay_EstimationTask
-ESTIMATION TASK                    Reynaldo A. Pahay Jr.           BS Computer Science
+
+#ESTIMATION TASK
 
 
 Goal: 
