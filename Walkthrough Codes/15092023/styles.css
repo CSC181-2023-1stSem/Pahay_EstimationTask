@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+}
+h1 {
+    color: blue;
+}
+p {
+    border-style: solid;
+    border-color: brown;
+    border-width: 5px;
+}
+a {
+    color:  purple;
+    background-color: yellow;
+    text-decoration: none;
+}

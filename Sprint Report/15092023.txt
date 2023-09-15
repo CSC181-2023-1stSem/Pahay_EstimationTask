@@ -1,0 +1,14 @@
+Cascading  Styles Sheet
+     CSS is a set of "rules" which include "selector" and one
+     or more "properties" and "values" as we as some punctuation.
+
+Applying CSS to our HTML
+    inline  - using style attribute
+
+    Note: 
+    The closer the higher priority
+    Span tags -was invented as the new inline tag with no styling
+    Div tags - new unstyled block tag with now padding, margin, background
+    color, or anything.
+    Id - must be unique docs
+    class - can be use anytime through out of the docs

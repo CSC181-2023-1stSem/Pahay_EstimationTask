@@ -1,0 +1,28 @@
+HTTP - Hypertext Transfer Protocol
+    - Hypertext transfer protocol or HTTP is a fundamental protocol used on the Internet in
+        order to control data transfer to and from a hosting server, in communication with a web
+        browser. HTTP is the essential means of communication between web users and the 
+        servers that maintain the websites themselves.
+    Develop by Tim Bernes-Lee
+    ( Basic Concept - Make a Connection - Request a document - Retrieve the Docs - Close Connection )
+
+- Telnet
+
+HTML - Hypertext Markup Language
+    Web still evolving
+        Invented in early 1990's
+        Popular in 1994
+    founder of WWW Robert Cailliau 
+
+Old version of Making Search Engine 1996 to 2007
+    http://web.archive.org/
+
+WWW Consortium
+    Form Tim Berners-Lee
+    - Insure that the was based on open standards rather than proprietary vendor products.
+
+HTML Links
+    - Links are what make the "web" a "web" -it is a web of interlinked documents
+
+Anchor Tag "a" a link is a "hot spot" on the page. It can be text or an image. Often it is visually marked
+    to make it easier to "notice" so as to engouage users to click!

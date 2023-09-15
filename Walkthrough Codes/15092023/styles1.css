@@ -1,0 +1,23 @@
+body {
+    font-family: arial, sans-serif;
+}
+
+#firstblock {
+    font-family: monospace;
+}
+#secondblock {
+    color: green;
+}
+.Mono {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.shout {
+    text-transform: uppercase;
+}
+.loud {
+    color: red;
+}
+#thirdblock {
+    background-color: yellow;
+}
