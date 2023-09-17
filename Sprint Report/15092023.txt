@@ -12,3 +12,19 @@ Applying CSS to our HTML
     color, or anything.
     Id - must be unique docs
     class - can be use anytime through out of the docs
+
+Color Names
+    16 official color names that will validate with an HTML validator
+Advanced Colors
+    Three Numbers, RED, GREEN, and BLUE. each from 00-FF (Hexidecimal)
+Fonts
+Font Factors
+
+Styling links
+    link - before a visit
+    visited - after it has been visited
+    hover - when your mouse is over it but u have not clicked
+    active - you have clicked it and u have not yet see the new page
+
+    nav
+    z- index a block cab force itself to be shown over top of other material
