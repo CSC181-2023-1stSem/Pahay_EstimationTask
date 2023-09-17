@@ -1,0 +1,17 @@
+Introduction of PHP
+
+Programming languages created PHP is C and Perl.
+    Dollar sign to start variable names, associative arrays.
+
+Philosophy of PHP
+    Responsible abd intelligent programmer
+    U know you want to do
+    flexibility in syntax
+    convienent possible
+    errors fail silently
+
+variable name is start with a dollar sign
+    some time the dollar sign might be confusing
+    Note:
+        Don't ommit Dollar sign when u writing codes
+
