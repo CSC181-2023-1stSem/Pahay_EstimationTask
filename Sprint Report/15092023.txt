@@ -27,4 +27,8 @@ Styling links
     active - you have clicked it and u have not yet see the new page
 
     nav
+<<<<<<< HEAD
     z- index a block cab force itself to be shown over top of other material
+=======
+    z- index a block cab force itself to be shown over top of other material
+>>>>>>> 6989b035f1e88c094c56deb1f4fa74a1359783bf
